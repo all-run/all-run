@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 올런
-- 👀 I’m interested in Tec=h
+- 👀 I’m interested in Tech
 - 🌱 I’m currently learning 아무거나
 - 💞️ I’m looking to collaborate on 몰라
 - 📫 How to reach me (Discord = all_run#3090)
