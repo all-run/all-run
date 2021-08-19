@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix='늅냥아 ')
-TOKEN = 'ImPort A Token'
+TOKEN = 'Import a bot token'
 
 @bot.event
 async def on_ready():
@@ -341,6 +341,6 @@ async def 안녕(ctx):
 
 @bot.command()
 async def 좋아하는(ctx):
-    await ctx.channel.send("난 셔링이 좋더라 ☆*: .｡. o(≧▽≦)o .｡.:*☆")
+    await ctx.channel.send("난 셔을이 좋더라 ☆*: .｡. o(≧▽≦)o .｡.:*☆")
 
-bot.run('ImPort A Token')
+bot.run('Import A bot token')
